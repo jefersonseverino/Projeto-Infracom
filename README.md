@@ -8,7 +8,7 @@
 
 - Rodrigo Rocha Moura (rrm2)
 
-- Victor Gabriel de Carvalho (vgc3).
+- Victor Gabriel de Carvalho (vgc3)
 
  ---
 
